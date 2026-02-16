@@ -13,3 +13,5 @@ GitHub Copilot: An AI-powered coding assistant that provides real-time suggestio
 Codespaces: Instant, cloud-hosted development environments that allow you to start coding in a browser without local setup.
 
 Dependabot: An automated security tool that scans your dependencies for vulnerabilities and creates pull requests to update them.
+
+New changes are being added to github
